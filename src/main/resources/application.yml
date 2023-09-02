@@ -21,6 +21,6 @@ spring:
       dialect: org.hibernate.dialect.OracleDialect #org.hibernate.dialect.MySQL8Dialect
 
 server:
-  port: 8082
+  port: 8086
 
 
